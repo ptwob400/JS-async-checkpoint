@@ -1,0 +1,23 @@
+{
+  "name": "async-checkpoin",
+  "version": "1.0.0",
+  "description": "This is the checkpoint for async @gschool.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptwob400/JS-async-checkpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptwob400/JS-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/ptwob400/JS-async-checkpoint#readme"
+}
